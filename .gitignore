@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+data/raw/
+data/cleaned/
+data/tmp/
+data/weird/
+
+*.pt
+*.pkl
+*.log

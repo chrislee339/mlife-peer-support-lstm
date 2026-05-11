@@ -1,0 +1,9 @@
+Variable,Included (n=108),Excluded (n=91),p-value
+Baseline BMI,34.20 (6.03),35.16 (5.66),0.252
+Age (years),49.47 (11.09),44.36 (11.54),0.002
+Baseline weight (lbs),210.21 (45.22),210.16 (37.77),0.993
+Women,99/108 (91.7%),81/91 (89.0%),0.694
+Points (gamified) arm,62/108 (57.4%),45/91 (49.5%),0.328
+Cohort 1,52/108 (48.1%),36/91 (39.6%),0.284
+Total weight change (lbs),-13.23 (19.66),-5.62 (12.23),0.001
+Total weight change (%),-5.93 (8.22),-2.61 (5.67),0.001
