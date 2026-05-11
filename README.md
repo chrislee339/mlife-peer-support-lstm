@@ -8,7 +8,6 @@ The paper applies a recurrent neural network (LSTM) to a weekly panel from the m
 
 ```
 .
-├── paper/                              manuscript draft (markdown and rendered docx)
 ├── code/
 │   ├── build_panel.py                  rebuild the rolling-window panel from cleaned mLIFE data
 │   ├── train_lstm.py                   LSTM training driver (deterministic CUDA)
